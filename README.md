@@ -1,7 +1,8 @@
-<h1 id="header">Hi, I'm Jordan!</h1> ![image](https://user-images.githubusercontent.com/85527420/209062725-4b472f9f-1019-45df-a9aa-c6c8d085b877.png)
+# Hey! I'm Jordan,
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=a+creative+machine+learning+engineer;with+too+many+ideas+to+figure+out+(:)](https://git.io/typing-svg)
 
 
-### Hi there 👋
+
 
 <!--
 **smiley-maker/smiley-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

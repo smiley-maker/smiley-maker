@@ -3,6 +3,7 @@
 
 I'm graduating with my master's in engineering in March (2023) and am looking for a full time position in software engineering. 
 
+
 🌱 I’m currently learning more about natural language processing and ai for robotics
 
 🔭 I’m currently working on a recipe recommendation system based on an image taken from a restaurant.

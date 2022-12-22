@@ -1,6 +1,5 @@
 # Hey! I'm Jordan,
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=a+creative+machine+learning+engineer;with+too+many+ideas+to+figure+out+(:)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=F74CED&width=435&lines=a+machine+learning+engineer;who+has+too+many+ideas+to+figure+out)](https://git.io/typing-svg)
 
 
 

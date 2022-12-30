@@ -16,7 +16,6 @@ I'm graduating with my master's in engineering in March (2023) and am looking fo
 
 I'm excited about a few projects I'm working on! Which one do you think I should start first?
 
-- Book recommender based on readability and content
 - Deep learning emotion recognition and playlist builder
 - Recipe recommendations based on photo from restaurant
 - Travelling Salesman Problem ... in Space!

@@ -8,13 +8,13 @@ I'm graduating with my master's in engineering in March (2023) and am looking fo
 
 🌱 I’m currently learning more about natural language processing and ai for robotics
 
-🔭 I’m currently working on a recipe recommendation system based on an image taken from a restaurant.
+🔭 I’m currently working on an experiment to determine the best loss and network structure for image colorization
 
 💬 Ask me about my approach to a new project idea (;
 
 ⚡ Fun fact: I love [Eureka](https://www.amazon.com/Eureka/dp/B000U6BT40/ref=sr_1_1?crid=LDISLZ35BCSN&keywords=eureka&qid=1671690614&s=instant-video&sprefix=eureka%2Cinstant-video%2C177&sr=1-1) (a show about a genius small town that gets in tons of trouble)
 
-I'm excited about a few projects I'm working on! Which one do you think I should start first?
+I'm excited about a few projects ideas I want to work on! Which one do you think I should start first?
 
 - Deep learning emotion recognition and playlist builder
 - Recipe recommendations based on photo from restaurant
